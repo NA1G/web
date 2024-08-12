@@ -1,0 +1,113 @@
+header .social-links .social-link:hover {
+    color: #ffffff;
+}
+
+header .logo:before {
+    background-color: #ffffff;
+}
+
+header .menu-button:before {
+    background-color: #f5f5f5;
+}
+
+.main-btn {
+    color: #ffffff;
+    border-color: #ffffff;
+}
+
+.main-btn:hover {
+    background-color: #fefefe;
+    border-color: #ffffff;
+}
+
+blockquote {
+    border-color: #ffffff;
+}
+
+.sub-heading h3:before {
+    background: #ffcaca;
+}
+
+.preloader .loading-text span:before {
+    color: #ffffff;
+}
+
+.section-about .about-info p strong {
+    color: #ffcaca;
+}
+
+.section-about .about-info .about-list li .title:before {
+    background-color: #ffffff;
+}
+
+.section-about .services .service-item i {
+    color: #ffffff;
+}
+
+.section-about .testimonials .testimonial-item .description:before {
+    color: #ffffff;
+}
+
+.section-about .testimonials .testimonial-item .rating li {
+    color: #ffffff;
+}
+
+.section-blog .blog-item .post-content .cat {
+    color: #f6f6f6;
+}
+
+.section-contact .contact-detail .contact-info li .title:before {
+    background-color: #ffffff;
+}
+
+.section-contact .contact-detail .social-media h4:before {
+    background-color: #ffffff;
+}
+
+.page.section-home .banner-text .animate-title {
+    color: #ffffff;
+}
+
+.section-portfolio .portfolio-filter ul li.active {
+    background-color: #ffffff;
+}
+
+.section-portfolio .portfolio-items .item figure {
+    background: #ffffff;
+}
+
+.section-resume .experience,
+.section-resume .education {
+    border-color: #ffffff;
+}
+
+.section-resume .experience h5,
+.section-resume .education h5 {
+    color: #ffffff;
+}
+
+.section-resume .experience .event:after,
+.section-resume .education .event:after {
+    -webkit-box-shadow: 0 0 0 4px #ffffff;
+    box-shadow: 0 0 0 4px #ffffff;
+}
+
+.section-resume .skills .skill-item .progress .progress-bar:after {
+    border-color: #ffffff;
+}
+
+.section-resume .skills .skill-item .progress .progress-bar {
+    background-color: #ffffff;
+}
+
+header .back-button:before {
+    background-color: #ffffff;
+}
+
+.single-blog .blog-category li {
+    border-color: #ffffff;
+}
+
+.single-blog .blog-category li a {
+    color: #ffffff;
+}
